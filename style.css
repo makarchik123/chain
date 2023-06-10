@@ -1,0 +1,24 @@
+body{
+    background-color: brown;
+}
+h1{
+    text-align: center;
+font-size: 80px;
+}
+img{
+    margin-left: auto;
+	margin-right: auto;
+    display: block;
+    width: 700px;
+}
+h2{
+    text-align: center;
+    font-size: 80px;  
+}
+a{
+    text-decoration: none;
+    font-size: 45px;
+    text-align: center;
+    display: block;
+    color: black;
+}
